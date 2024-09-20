@@ -9,10 +9,15 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 step 1: Start the program
+
 step 2: import the needed packages
+
 step 3: Assigning hours to x and scores to y.
+
 step 4:plot the scatter plot
+
 step 5: Used mse,rmse,mae formula to find the values.
+
 step 6: End the program
 ## Program:
 ```
